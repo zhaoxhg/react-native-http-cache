@@ -1,4 +1,5 @@
 yarn add RCTHttpCache@https://github.com/ArlenWang/react-native-http-cache.git
+
 react-native link RCTHttpCache
 
 React Native http cache control for both fetch/XMLHttpRequest and ImageView
