@@ -1,4 +1,4 @@
-yarn add RCTHttpCache@https://github.com/ArlenWang/react-native-http-cache.git
+yarn add react-native-http-cache@https://github.com/ArlenWang/react-native-http-cache.git
 
 react-native link react-native-http-cache
 
