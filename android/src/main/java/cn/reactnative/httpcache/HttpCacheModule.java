@@ -29,7 +29,7 @@ public class HttpCacheModule extends ReactContextBaseJavaModule {
 
     @Override
     public String getName() {
-        return "react-native-http-cache";
+        return "RCTHttpCache";
     }
 
     @ReactMethod
