@@ -1,5 +1,6 @@
-yarn add react-native-http-cache@https://github.com/ArlenWang/react-native-http-cache.git
+yarn add @arlenwang/react-native-http-cache
 
+<0.6.0
 react-native link react-native-http-cache
 
 import { getImageCacheSize,getHttpCacheSize,clearHttpCache,clearImageCache } from 'react-native-http-cache';
