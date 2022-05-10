@@ -1,6 +1,6 @@
 {
   "name": "@arlenwang/react-native-http-cache",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Control http cache used by fetch/XMLHttpRequest",
   "main": "index.js",
   "scripts": {
