@@ -1,4 +1,8 @@
-yarn add @arlenwang/react-native-http-cache
+## Installation（@zhaoxhg/react-native-http-cache）
+
+```sh
+yarn add @zhaoxhg/react-native-http-cache
+```
 
 <0.6.0
 react-native link react-native-http-cache
@@ -10,6 +14,8 @@ import { getImageCacheSize,getHttpCacheSize,clearHttpCache,clearImageCache } fro
 import * as CacheManager from 'react-native-http-cache';
 
 ==========================================================================================
+
+以下为原文：
 
 React Native http cache control for both fetch/XMLHttpRequest and ImageView
 
