@@ -13,7 +13,9 @@ import { getImageCacheSize,getHttpCacheSize,clearHttpCache,clearImageCache } fro
 
 import * as CacheManager from 'react-native-http-cache';
 
-==========================================================================================
+以上为使用该forks的全部步骤。
+
+===========================================================================
 
 以下为原文：
 
