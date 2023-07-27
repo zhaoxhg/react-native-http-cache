@@ -7,7 +7,7 @@ yarn add @zhaoxhg/react-native-http-cache
 <0.6.0
 react-native link react-native-http-cache
 
-import { getImageCacheSize,getHttpCacheSize,clearHttpCache,clearImageCache } from '@arlenwang/react-native-http-cache';
+import { getImageCacheSize,getHttpCacheSize,clearHttpCache,clearImageCache } from '@zhaoxhg/react-native-http-cache';
 
 或
 
